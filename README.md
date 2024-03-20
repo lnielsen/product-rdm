@@ -1,50 +1,30 @@
-# InvenioRDM Development Roadmap
+# InvenioRDM Roadmap
 
-## Product Roadmap
+This repository tracks the high-level roadmap of InvenioRDM. The tasks included in the roadmap are tasks that are currently being worked on by InvenioRDM partner(s) or where resources have been assigned to the task.
 
-The intended audience for this development roadmap is InvenioRDM project
-partners with prior knowledge to the project.
+- [Roadmap](https://github.com/orgs/inveniosoftware/projects/80)
+- [Feature requests](https://github.com/inveniosoftware/product-rdm/discussions/new?category=ideas)
 
-For a more high-level roadmap please see:
+## Feature requests
 
-- [Product Roadmap](https://inveniosoftware.org/products/rdm/roadmap/)
+Please open ideas/feature requests as a [GitHub Discussion](https://github.com/inveniosoftware/product-rdm/discussions/new?category=ideas).
 
-## Development Roadmap
+## Workflow
 
-The development roadmap is an active working document. We use it for planning,
-coordination and progress tracking.
+The roadmap is updated quarterly in Jan, Apr, Jul and Oct. All partners add tasks to the roadmap they work on, and the roadmap is discussed in the bi-weekly InvenioRDM telecon.
 
-#### Milestones
+- Step 1: Ideas/feature requests are discussed.
+- Step 2: InvenioRDM partners open an issue for tasks they are working on, or planning to work on in the near future (i.e. have assigned resources to).
+- Step 3: The issue is added to roadmap project board.
 
-The key part of the roadmap is the milestones overview:
+The roadmap does not track any dates, only the upcoming version and planned features (in a future release). 
 
-- [Milestones](https://github.com/inveniosoftware/product-rdm/milestones?direction=asc&sort=due_date&state=open)
+## Issues
 
-#### Issues
+An issue/task should track:
 
-Each issue represents a high-level feature/goal/epic, and it describes:
-
-- Goal
-- Tasks
-- Mockups
-
-#### Labels
-
-**Size**
-
-The size labels indicate the estimated effort to complete a task. We use the
-following definitions:
-
-- *XS*: 1/2 person week
-- *S*: 1 person week
-- *M*: 2 person weeks
-- *L*: 4 person weeks
-- *XL*: 8 person weeks
-- *XXL*: 16 person weeks
-
-**Other**
-
-- *Core*: A core repository feature.
-- *Extension*: An extension feature which .
-- *New*: A completely new feature.
-- *Port*: A feature with existing code and or design available.
+- a responsible person (assignee)
+- the partner organisation(s) participating
+- the targeted release
+- requirements (motivation, user stories)
+- technical design documents (mockups, data model, REST APIs, programmatic API etc)
