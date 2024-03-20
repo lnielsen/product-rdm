@@ -1,13 +1,13 @@
 # InvenioRDM Roadmap
 
-This repository tracks the high-level roadmap of InvenioRDM. The tasks included in the roadmap are tasks that are currently being worked on by InvenioRDM partner(s) or where resources have been assigned to the task.
+This repository tracks the high-level roadmap of InvenioRDM. The tasks included in the roadmap are tasks that are currently being worked on by InvenioRDM partner(s) or where resources have been assigned to the task:
 
 - [Roadmap](https://github.com/orgs/inveniosoftware/projects/80)
-- [Feature requests](https://github.com/inveniosoftware/product-rdm/discussions/new?category=ideas)
+- [Feature requests](https://github.com/inveniosoftware/product-rdm/discussions/categories/ideas)
 
 ## Feature requests
 
-Please open ideas/feature requests as a [GitHub Discussion](https://github.com/inveniosoftware/product-rdm/discussions/new?category=ideas).
+- Open a [new feature request](https://github.com/inveniosoftware/product-rdm/discussions/new?category=ideas)
 
 ## Workflow
 
