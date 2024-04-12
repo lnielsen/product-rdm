@@ -2,7 +2,7 @@
 
 This repository tracks the high-level roadmap of InvenioRDM. The tasks included in the roadmap are tasks that are currently being worked on by InvenioRDM partner(s) or where resources have been assigned to the task:
 
-- [Roadmap](https://github.com/orgs/inveniosoftware/projects/80)
+- [Roadmap](https://github.com/orgs/inveniosoftware/projects/80/views/9)
 - [Feature requests](https://github.com/inveniosoftware/product-rdm/discussions/categories/ideas)
 
 ## Feature requests
